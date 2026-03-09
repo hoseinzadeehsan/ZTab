@@ -59,7 +59,7 @@ This creates an isolated Python environment so package versions do not conflict 
 ### ▶ 1) Download prepared package (recommended)
 
 Download and extract the prepared `data/` package under the repository root:
-- [Google Drive package](https://drive.google.com/file/d/1S3gdC9JL6G6ICDJWTTo0N-6-lh0K6JI9/view?usp=sharing)
+- [Google Drive package](https://drive.google.com/file/d/1wMtmr3wLt6cD2r7vdJX67vz9OD79r9D6/view?usp=sharing)
 
 The package includes:
 - train/validation/test CSV splits
