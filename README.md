@@ -1,6 +1,6 @@
 # ZTab: Domain-based Zero-shot Annotation for Table Columns
 
-This repository is the source code of **"ZTab: Domain-based Zero-shot Annotation for Table Columns"** published at **ICDE 2026**.
+This repository is the source code of **"[ZTab: Domain-based Zero-shot Annotation for Table Columns](https://arxiv.org/pdf/2603.11436)"** published at **ICDE 2026**.
 
 ---
 
